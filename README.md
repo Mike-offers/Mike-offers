@@ -62,14 +62,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Mike-offers/Mike-offers/assets/images/yuanze.png" />
 
-- [模块脚本](https://cdn.jsdelivr.net/gh/Mike-offers/Rewrite) &emsp; 📌 2024-09-20 —— 2025-04-04
+- [模块脚本](https://github.com/Mike-offers/Rewrite) &emsp; 📌 2024-09-20 —— 2025-04-04
 
   - 使用工具：QuantumultX、Loon、Surge
   - 使用说明：将模块或脚本文件以链接形式导入
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Mike-offers/Mike-offers/assets/images/tuhui.png" />
 
-- [应用通杀](https://cdn.jsdelivr.net/gh/Mike-offers/iOS-Generally-Unlock-Tweak-or-Js) &emsp; 📌 2025-01-06 —— 2025-04-04
+- [应用通杀](https://github.com/Mike-offers/iOS-Generally-Unlock-Tweak-or-Js) &emsp; 📌 2025-01-06 —— 2025-04-04
 
   - 使用工具：编译工具手机、Windows用Theos，Mac用Theos/Xcode集成Theos；插件越狱装Deb，非越狱用TrollFools/签名工具注入
   - 使用说明：目前仅包括部分Buy通杀，后续会完善其他类型通杀
